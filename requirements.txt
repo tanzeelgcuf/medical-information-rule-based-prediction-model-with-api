@@ -1,0 +1,6 @@
+libraries need to install:
+
+
+import openpyxl
+
+Then run the main.py file 
